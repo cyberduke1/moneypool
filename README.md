@@ -2,7 +2,7 @@
 This is an application System amongs Friends which keeps track of a friend expenditure
 Shared Expense Pool Agreement
 
-## Purpose: This document outlines the rules and procedures for the Shared Expense Pool among friends, groups, communities and companies. The goal is to manage and reimburse shared expenses in an organized manner.This also make sure that comapnies and individuals have a score in the application which is gained by usage and trust earning the users a score like credit score
+### Purpose: This document outlines the rules and procedures for the Shared Expense Pool among friends, groups, communities and companies. The goal is to manage and reimburse shared expenses in an organized manner.This also make sure that comapnies and individuals have a score in the application which is gained by usage and trust earning the users a score like credit score
 
 ### 1. Pool Contributions:
 
