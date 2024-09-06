@@ -1,52 +1,70 @@
-# moneypool
-This is an application System amongs Friends which keeps track of a friend expenditure
-Shared Expense Pool Agreement
+# Getting Started with Create React App
 
-Purpose: This document outlines the rules and procedures for the Shared Expense Pool among friends, groups, communities and companies. The goal is to manage and reimburse shared expenses in an organized manner.This also make sure that comapnies and individuals have a score in the application which is gained by usage and trust earning the users a score like credit score
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### 1. Pool Contributions:
+## Available Scripts
 
-    Each member agrees to contribute an intial amount to the Shared Expense Pool on a monthly/quarterly basis.
-    Contributions are due on the [day of the month/quarter] and should be transferred to univesal.
+In the project directory, you can run:
 
-### 2. Eligible Expenses:
+### `npm start`
 
-    The pool can be used to cover the following types of expenses:
-        List types of expenses, e.g., group dinners, shared gifts, communal supplies
-    Any expense not listed above will need prior approval from all members before being reimbursed from the pool.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### 3. Recording Transactions:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-    All transactions involving the pool must be recorded. The following details should be included:
-        Date of the expense
-        Description of the expense
-        Amount spent
-        Name of the person who covered the expense
-    Designated Person/Team is responsible for maintaining the records.
+### `npm test`
 
-### 4. Reimbursement Process:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-    At the end of each month/quarter, expenses will be reviewed and settled.
-    Reimbursements will be calculated based on the recorded transactions and shared equally among all members.
-    Members will receive reimbursement payments by Method of Payment, e.g., bank transfer, PayPal.
-    Transactions must be confirmed by atleast 60% of the members in the community.
+### `npm run build`
 
-### 5. Pool Balance and Settlements:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-    The balance of the pool will be updated regularly and shared with all members.
-    If the pool balance reaches Threshold Amount, a settlement will be triggered, and any surplus will be redistributed among members or saved for future expenses.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### 6. Handling Disputes:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-    Any disputes regarding expenses or contributions should be brought to friend group or community for resolution.
-    Decisions will be made collectively, with a majority vote if necessary.
+### `npm run eject`
 
-### 7. Changes to Agreement:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-    Any changes to this agreement must be approved by all members.
-    Updates will be documented and shared with all members.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### 8. Termination of Pool:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-    The Shared Expense Pool may be terminated upon agreement by all members.
-    Remaining funds will be distributed equally among all members or as decided by the group.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
